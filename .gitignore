@@ -1,0 +1,26 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+.DS_Store
+.vscode/
+.idea/
+.vs/
+
+*.csproj
+*.sln
+*.slnx
+mono_crash.*
+
+__pycache__/
+*.py[cod]
+
+# El servidor Python vive en su propio repo: github.com/juangast/MultiAgents
+MultiAgents/
